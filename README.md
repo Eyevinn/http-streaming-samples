@@ -6,6 +6,9 @@ This is a collection of sample streams in various HTTP streaming formats that ar
 
 If you want to contribute to this list, first ensure that the provided stream are free to use and online and then submit the stream as a PR.
 
+- No NSFW content, since most people using this list will be doing so professionally.
+- Vendors are welcome to post streams to the list.
+
 ## HLS
 
 HTTP (no gzip):
