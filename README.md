@@ -17,6 +17,8 @@ HTTP (no gzip):
 HTTPS (no gzip):
 - 480x270, 640x360, 1024x576 (AVC) https://maitv-vod.lab.eyevinn.technology/VINN.mp4/master.m3u8
 
+HTTPS (gzip):
+- 384x216, 512x288, 640x360, 768x432, 1024x576, 1280x720, 1920x1080 (AVC) https://redbee.ctl.cdn.ebsd.ericsson.net/eyevinn/stswe/assets/e720d1da-0915-411b-807c-3e83f451bbb7_29C72F/materials/x8Tsg4z2a9_29C72F/vod-idx.ism/.m3u8
 
 ## MPEG-DASH
 
