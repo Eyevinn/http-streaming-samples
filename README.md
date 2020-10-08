@@ -1,6 +1,6 @@
 # Sample Streams
 
-This is a collection of sample streams in various HTTP streaming formats that are free to use. 
+This is a collection of sample streams in various HTTP streaming formats that are free to use.
 
 ## Contributions
 
@@ -20,10 +20,40 @@ HTTPS (no gzip):
 HTTPS (gzip):
 - 384x216, 512x288, 640x360, 768x432, 1024x576, 1280x720, 1920x1080 (AVC) https://redbee.ctl.cdn.ebsd.ericsson.net/eyevinn/stswe/assets/e720d1da-0915-411b-807c-3e83f451bbb7_29C72F/materials/x8Tsg4z2a9_29C72F/vod-idx.ism/.m3u8
 
+HTTPS Live CPIX Keyrotation:
+- https://live.unified-streaming.com/keyrotation/keyrotation.isml/.m3u8
+
+HTTPS VOD Static Multi-DRM CBCS (CPIX):
+- https://demo.unified-streaming.com/video/multi-format-drm/master.m3u8
+
+HTTPS VOD JITP Multi-Key CENC (CPIX):
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multikey-cenc.ism/.m3u8
+
 ## MPEG-DASH
+HTTPS Live DVB-DASH-Low-Latency:
+- https://live.unified-streaming.com/scte35/scte35.isml/.mpd?mpd_profile=urn:dvb:dash:profile:dvb-dash:2014
+
+HTTPS VOD JITP $Timeline:
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-tiled-thumbnails-timeline.ism/.mpd
+
+HTTPS VOD JITP $Number:
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-tiled-thumbnails-numbered.ism/.mpd
+
+HTTPS VOD Static Trickplay Tiled-Thumbnails:
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-tiled-thumbnails-static.mpd
+
+HTTPS VOD Static Multi-DRM CBCS (CPIX):
+- https://demo.unified-streaming.com/video/multi-format-drm/dash-cbcs.mpd
+
+HTTPS VOD JITP Multi-Key CENC (CPIX):
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multikey-cenc.ism/.mpd
 
 ## Smooth Streaming
+HTTPS VOD Mult-Bitrate/Multi-Language:
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/Manifest
 
+HTTPS VOD JITP Dynamic Track Filtering:
+- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/Manifest?filter=(type==%22audio%22%26%26systemBitrate%3C100000)||(type==%22video%22%26%26systemBitrate%3C1024000)
 
 # License (MIT)
 
