@@ -53,7 +53,7 @@ HTTPS VOD Mult-Bitrate/Multi-Language:
 - https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/Manifest
 
 HTTPS VOD JITP Dynamic Track Filtering:
-- https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/Manifest?filter=(type==%22audio%22%26%26systemBitrate%3C100000)||(type==%22video%22%26%26systemBitrate%3C1024000)
+- `https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/Manifest?filter=(type==%22audio%22%26%26systemBitrate%3C100000)||(type==%22video%22%26%26systemBitrate%3C1024000)`
 
 # License (MIT)
 
