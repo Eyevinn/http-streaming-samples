@@ -21,7 +21,8 @@ HTTPS (gzip):
 - 384x216, 512x288, 640x360, 768x432, 1024x576, 1280x720, 1920x1080 (AVC) https://redbee.ctl.cdn.ebsd.ericsson.net/eyevinn/stswe/assets/e720d1da-0915-411b-807c-3e83f451bbb7_29C72F/materials/x8Tsg4z2a9_29C72F/vod-idx.ism/.m3u8
 
 HTTPS Live:
-- https://5eefe582b5018010.mediapackage.eu-north-1.amazonaws.com/out/v1/4812934ce97d42bba9dcaaa1181649c5/manifest.m3u8
+- https://d3choykgz5a49y.cloudfront.net/out/v1/4812934ce97d42bba9dcaaa1181649c5/manifest.m3u8
+- https://d2fz24s2fts31b.cloudfront.net/out/v1/6484d7c664924b77893f9b4f63080e5d/manifest.m3u8 
 
 HTTPS Live CMAF:
 - https://d3choykgz5a49y.cloudfront.net/out/v1/cc55d471ae4b411c8988b7594bcaebb4/hlscmaf/manifest.m3u8
