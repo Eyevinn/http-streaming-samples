@@ -47,6 +47,9 @@ HTTPS HLS Interstitials:
 HTTPS Live DVB-DASH-Low-Latency:
 - https://live.unified-streaming.com/scte35/scte35.isml/.mpd?mpd_profile=urn:dvb:dash:profile:dvb-dash:2014
 
+HTTPS Live:
+- https://d2fz24s2fts31b.cloudfront.net/out/v1/3b6879c0836346c2a44c9b4b33520f4e/manifest.mpd
+
 HTTPS VOD JITP $Timeline:
 - https://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel-tiled-thumbnails-timeline.ism/.mpd
 
